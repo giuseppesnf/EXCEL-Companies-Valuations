@@ -2,4 +2,4 @@ Intrinsic Valuation ---> Through the Discounted cash flow (DCF) model (COMPLETE 
 
 Relative Valuation ---> Stata/Excel
 
-PRIVATE FILES, ask for check
+For more info contact me at giuseppesnf@outlook.it
