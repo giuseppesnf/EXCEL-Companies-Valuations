@@ -126,11 +126,13 @@ predict residual, res
 
 
 
-*DOUBT*
 
-*Perché non si fa 2,22 (Price/Sales di GME del sample) ---> 2,22 x 5.089.800.000 / 70.700.000 = 159,66 $
 
-*Cosa succede se uso il valore osservabile di Yahoo Finance (2,37 o 2,90 che sia)?
+
+
+
+
+
 
 
 
